@@ -17,50 +17,25 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Programming Languages  
-
-<table>
-<tr>
-<td>
-
-<img src="https://skillicons.dev/icons?i=python" height="50" onerror="this.style.display='none'"/>
-<img src="https://skillicons.dev/icons?i=java" height="50" onerror="this.style.display='none'"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="50" onerror="this.style.display='none'"/>
-<img src="https://skillicons.dev/icons?i=c" height="50" onerror="this.style.display='none'"/>
-<img src="https://skillicons.dev/icons?i=cs" height="50" onerror="this.style.display='none'"/>
-<img src="https://skillicons.dev/icons?i=dotnet" height="50" onerror="this.style.display='none'"/>
-
-</td>
-<td>
-
-<!-- Website Preview -->
-<a href="https://arshadpasha.tech" target="_blank">
-  <img src="https://api.microlink.io/?url=https%3A%2F%2Farshadpasha.tech&overlay.browser=screenshot&embed=screenshot.url" 
-       width="400px" 
-       alt="My Website Preview" 
-       onerror="this.style.display='none'"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,dotnet" height="50"/>
+</p>
 
 ### 🌐 Web Technologies  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flask" height="50" onerror="this.style.display='none'"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flask" height="50"/>
 </p>
 
 ### 🗄️ Databases & Cloud  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,gcp" height="50" onerror="this.style.display='none'"/>
-  <img src="https://www.vectorlogo.zone/logos/google_vertexai/google_vertexai-icon.svg" height="45" onerror="this.style.display='none'"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,gcp" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/google_vertexai/google_vertexai-icon.svg" height="45"/>
 </p>
 
 ### ⚙️ Tools & DevOps  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux" height="50" onerror="this.style.display='none'"/>
-  <img src="https://www.vectorlogo.zone/logos/uipath/uipath-icon.svg" height="45" onerror="this.style.display='none'"/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/uipath/uipath-icon.svg" height="45"/>
 </p>
 
 ---
@@ -99,16 +74,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arshad-pasha">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" onerror="this.style.display='none'"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   <a href="https://github.com/pashaarshad">
-    <img src="https://skillicons.dev/icons?i=github" height="50" onerror="this.style.display='none'"/>
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
   <a href="https://arshadpasha.tech">
-    <img src="https://img.icons8.com/fluency/48/domain.png" height="50" onerror="this.style.display='none'"/>
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="50"/>
   </a>
   <a href="mailto:arshadpashaintern@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="50" onerror="this.style.display='none'"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="50"/>
   </a>
 </p>
 
