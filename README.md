@@ -35,7 +35,7 @@
 ### ⚙️ Tools & DevOps  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/uipath/uipath-icon.svg" height="45"/>
+  <img src="[https://www.vectorlogo.zone/logos/uipath/uipath-icon.sv](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrTg_Ygs_SNsALOCO1-s6-KYS2CKFd0LvfA&s)g" height="45"/>
 </p>
 
 ---
