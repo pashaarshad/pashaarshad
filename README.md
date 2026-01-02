@@ -9,11 +9,11 @@
 🔗 **https://arshadpasha.tech**
 ## 🌐 My Website  
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://arshadpasha.tech" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Website-arshadpasha.tech-00C4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 ---
 
