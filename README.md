@@ -5,7 +5,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me   
 - 🚀 Full Stack Developer skilled in **ReactJS, NextJS, MySQL, Flask**
 - 🔐 Cybersecurity & RPA enthusiast (UiPath, Ethical Hacking, Encryption)
 - ☁️ Certified in **Google Cloud, Infosys Springboard, Cybersecurity**
