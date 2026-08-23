@@ -6,7 +6,7 @@
 ---
 
 ## 🌐 My Website  
-🔗 **https://arshadpasha.tech**
+🔗 **https://arshadpasha.netlify.app/**
  
 
 <!-- <p align="center">
